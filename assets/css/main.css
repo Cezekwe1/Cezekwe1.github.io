@@ -2483,6 +2483,15 @@
 
 		}
 
+		.imagen img {
+			border-radius: 4px;
+			display: block;
+			height: 100%;
+			width: 80%;
+
+		}
+
+
 		/*.image.left {
 			float: left;
 			margin: 0 1.5em 1em 0;
@@ -2503,7 +2512,7 @@
 				width: 100%;
 			}*/
 
-		/*.image.fit {
+		  .image.fit {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
@@ -2511,7 +2520,7 @@
 
 			.image.fit img {
 				width: 100%;
-			}*/
+			}
 
 /* List */
 
